@@ -1,6 +1,6 @@
 {
   "name": "OGS Assessment Test Q2",
-  "description": "Blank Process",
+  "description": "Extract information from the emails and save into an excel. Move all the emails to another folder",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.8.6]",
